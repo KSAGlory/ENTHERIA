@@ -1,6 +1,6 @@
-# ENTHERIA
+# **ENTHERIA**
 
-*Omnia mutantur, nihil interit.*
+**Omnia mutantur, nihil interit.**
 
 An autonomous evolutionary ecosystem with a scientific observation system.
 
