@@ -69,11 +69,6 @@ Future demonstrations and educational recordings are intended to explain experim
 
 Read the [original Latin in the Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0029%3Abook%3D15%3Acard%3D153).
 
-## Author and Community
-
-- Author: **KSAGlory**
-- Community: [discord.gg/ksahub](https://discord.gg/ksahub)
-
 ## License
 
 No application or source-code license is offered through this repository. Release terms will be stated when a public version is available.
